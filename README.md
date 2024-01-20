@@ -1,2 +1,2 @@
-# IBM_data_analyst_capstone-Survey-_project_repo.
+# IBM data analyst capstone-Survey-project_repo.
 Analysis Developer Survey 
